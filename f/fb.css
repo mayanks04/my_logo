@@ -1,0 +1,26 @@
+body{
+	background-color: green;
+}
+
+
+div{
+	background: blue;
+	height: 100px;
+	width: 100px;
+    left: 45%;
+    top: 45%;
+    position: absolute;
+    z-index: 3;
+    border-radius: 10px;
+    transform: (-50%,-20%);
+}
+.fb{
+	box-shadow: 3px 4px 4px 2px rgb(0,0,.2);
+}
+.fab{
+	color:#fff;
+	position: absolute;
+	top: 26px;
+	left: 46;
+	font-size:75px;
+}
