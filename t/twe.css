@@ -1,0 +1,28 @@
+body{
+	background-color: red;
+}
+
+
+div{
+	background: blue;
+	height: 100px;
+	width: 100px;
+    left: 45%;
+    top: 45%;
+    position: absolute;
+    z-index: 3;
+    border-radius: 10px;
+    transform: (-50%,-20%);
+}
+.twe{
+	box-shadow: 2px 3px 3px 1px;
+}
+.fab {
+	left: 26px;
+	top: 30px;
+	position: absolute;
+	font-size: 55px;
+	color: white ;
+   
+}
+	
